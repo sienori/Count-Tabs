@@ -1,0 +1,8 @@
+{
+    "extName": {
+        "message": "Count Tabs"
+    },
+    "extDescription": {
+        "message": "開いているタブの数を表示します"
+    }
+}
